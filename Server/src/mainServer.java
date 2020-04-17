@@ -12,13 +12,17 @@ public class mainServer
     public static void main(String[] args)
     {
         //Library lib = new Library();
-        try
+        while(true)
         {
-            Thread t = new customThread(1919);
-            t.run();
-        }catch(IOException e)
-        {
-            e.printStackTrace();
+            try
+            {
+                Thread t = new customThread(1919);
+                t.run();
+            }
+            catch (IOException e)
+            {
+                e.printStackTrace();
+            }
         }
     }
 }

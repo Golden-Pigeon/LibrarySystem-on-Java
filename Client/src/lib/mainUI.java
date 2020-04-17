@@ -1,22 +1,25 @@
 package lib;
 
-import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
-public class mainUI extends Application
-{
+import java.io.IOException;
+import java.net.Socket;
 
-    @Override
-    public void start(Stage primaryStage) throws Exception
+public class mainUI
+{
+    public mainUI(Socket client, String UID) throws IOException
     {
-        Parent root = FXMLLoader.load(getClass().getResource("mainUI.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("FXML/mainUI.fxml"));
+        Stage primaryStage = new Stage();
         primaryStage.setTitle("XDU图书管理系统 ver1.0.0");
         primaryStage.setScene(new Scene(root, 1280, 720));
         primaryStage.setResizable(false);
-
-        primaryStage.show();
+        primaryStage.getIcons().add(new Image("src/icon.png"));
+        primaryStage.showAndWait();
     }
+
 }

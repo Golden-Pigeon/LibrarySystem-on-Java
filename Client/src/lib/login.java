@@ -22,10 +22,29 @@ public class login extends Application
             out.writeUTF(password);
             InputStream inFromServer = client.getInputStream();
             DataInputStream in = new DataInputStream(inFromServer);
-            arttnba3.MyWindows.messageWin(in.readUTF(),"来自服务端的消息",1);
+            int n = Integer.valueOf(in.readUTF());
+            switch (n)
+            {
+                case 0:
+                    mainUI mui = new mainUI(client,in.readUTF());
+                    break;
+                case 1:
+                    arttnba3.MyWindows.messageWin("用户名错误或不存在！","错误信息",0);
+                    client.close();
+                    break;
+                case 2:
+                    arttnba3.MyWindows.messageWin("密码错误！","错误信息",0);
+                    client.close();
+                    break;
+                default:
+                    arttnba3.MyWindows.messageWin("服务端异常！","错误信息",0);
+                    client.close();
+                    break;
+            }
         }
         catch(Exception event)
         {
+            event.printStackTrace();
             arttnba3.MyWindows.messageWin("无法连接至服务器！","错误信息",0);
         }
     }

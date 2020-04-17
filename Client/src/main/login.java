@@ -12,12 +12,11 @@ public class login extends Application
     @Override
     public void start(Stage primaryStage) throws Exception
     {
-        Parent root = FXMLLoader.load(getClass().getResource("loginUI.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("../lib/FXML/loginUI.fxml"));
         primaryStage.setTitle("XDU图书管理系统 ver1.0.0");
         primaryStage.setScene(new Scene(root, 500, 300));
         primaryStage.setResizable(false);
         primaryStage.getIcons().add(new Image("src/icon.png"));
-
         primaryStage.show();
     }
 

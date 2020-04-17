@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<GridPane alignment="center" hgap="10" prefHeight="300.0" prefWidth="500.0" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.Controller">
+<GridPane alignment="center" hgap="10" prefHeight="300.0" prefWidth="500.0" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lib.Controller.loginUIController">
    <columnConstraints>
       <ColumnConstraints />
    </columnConstraints>
@@ -18,7 +18,7 @@
          <children>
             <ImageView fitHeight="350.0" fitWidth="540.0" layoutX="-19.0" layoutY="19.0">
                <image>
-                  <Image url="@bg.png" />
+                  <Image url="@../../main/bg.png" />
                </image>
             </ImageView>
             <Button fx:id="loginBtn" layoutX="180.0" layoutY="266.0" mnemonicParsing="false" onAction="#loginButtonAction" prefHeight="23.0" prefWidth="78.0" text="登录！" textAlignment="CENTER" />

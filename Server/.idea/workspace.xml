@@ -4,40 +4,24 @@
     <list default="true" id="ee5173bb-d9d5-4171-89af-17bcd96cc145" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Client/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/META-INF/Client.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyBigNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyWindows$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyWindows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/icon.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/mainUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/mainUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/lib/login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.fxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/loginUI.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MyBigNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MySQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MyWindows.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/icon.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/mainUI.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/mainUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/mainUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/mainUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/mainUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/Controller/loginUIController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/src/main/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/loginUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyBigNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/mainServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainServer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +59,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="mainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -125,26 +109,30 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3683" y="219" key="EnvironmentVariablesDialog/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587120089009" />
-    <state width="699" height="222" key="GridCell.Tab.0.bottom" timestamp="1586880370712">
+    <state x="3740" y="185" key="FileChooserDialogImpl" timestamp="1587135715756">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="699" height="222" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586880370712" />
-    <state width="699" height="222" key="GridCell.Tab.0.center" timestamp="1586880370712">
+    <state x="3740" y="185" key="FileChooserDialogImpl/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587135715756" />
+    <state width="698" height="222" key="GridCell.Tab.0.bottom" timestamp="1587144733679">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="699" height="222" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586880370712" />
-    <state width="699" height="222" key="GridCell.Tab.0.left" timestamp="1586880370712">
+    <state width="698" height="222" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
+    <state width="698" height="222" key="GridCell.Tab.0.center" timestamp="1587144733679">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="699" height="222" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586880370712" />
-    <state width="699" height="222" key="GridCell.Tab.0.right" timestamp="1586880370712">
+    <state width="698" height="222" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
+    <state width="698" height="222" key="GridCell.Tab.0.left" timestamp="1587144733679">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="699" height="222" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586880370712" />
-    <state x="3461" y="9" key="SettingsEditor" timestamp="1587119691216">
+    <state width="698" height="222" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
+    <state width="698" height="222" key="GridCell.Tab.0.right" timestamp="1587144733679">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state x="3461" y="9" key="SettingsEditor/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119691216" />
+    <state width="698" height="222" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
+    <state x="3430" y="66" key="SettingsEditor" timestamp="1587121784508">
+      <screen x="3240" y="0" width="1440" height="860" />
+    </state>
+    <state x="3430" y="66" key="SettingsEditor/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587121784508" />
     <state x="3658" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586972700523">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
