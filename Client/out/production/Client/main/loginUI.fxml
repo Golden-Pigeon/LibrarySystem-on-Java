@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<GridPane alignment="center" hgap="10" prefHeight="300.0" prefWidth="500.0" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.Controller">
+<GridPane alignment="center" hgap="10" prefHeight="300.0" prefWidth="500.0" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.Controller">
    <columnConstraints>
       <ColumnConstraints />
    </columnConstraints>
@@ -16,15 +16,27 @@
    <children>
       <AnchorPane prefHeight="300.0" prefWidth="500.0" GridPane.rowIndex="1">
          <children>
-            <ImageView fitHeight="348.0" fitWidth="540.0" layoutX="-19.0" layoutY="21.0">
+            <ImageView fitHeight="350.0" fitWidth="540.0" layoutX="-19.0" layoutY="19.0">
                <image>
-                  <Image url="@../bg.png" />
+                  <Image url="@bg.png" />
                </image>
             </ImageView>
             <Button fx:id="loginBtn" layoutX="180.0" layoutY="266.0" mnemonicParsing="false" onAction="#loginButtonAction" prefHeight="23.0" prefWidth="78.0" text="登录！" textAlignment="CENTER" />
             <Button fx:id="registerBtn" layoutX="263.0" layoutY="266.0" mnemonicParsing="false" onAction="#registerButtonAction" prefHeight="23.0" prefWidth="78.0" text="注册" />
             <TextField fx:id="username" layoutX="180.0" layoutY="195.0" />
             <PasswordField fx:id="password" layoutX="180.0" layoutY="228.0" />
+            <Label layoutX="127.0" layoutY="197.0" text="用户名" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font></Label>
+            <Label layoutX="130.0" layoutY="230.0" text="密  码" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font></Label>
+            <Label layoutX="258.0" layoutY="314.0" text="©arttnba3    github.com/arttnba3    All Rights Reserved" textFill="WHITE">
+               <font>
+                  <Font size="9.0" />
+               </font></Label>
          </children>
       </AnchorPane>
    </children>

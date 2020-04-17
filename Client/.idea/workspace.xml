@@ -2,20 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/loginUI.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Client/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/META-INF/Client.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/arttnba3/MyBigNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/arttnba3/MySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/arttnba3/MyWindows$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/arttnba3/MyWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/icon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/interfaces/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/interfaces/mainUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/interfaces/mainUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/main/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/main/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Client/main/loginUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arttnba3/MyBigNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arttnba3/MySQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arttnba3/MyWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/mainUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/mainUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/loginUI.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/mainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/mainServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +86,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -115,6 +129,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -125,7 +140,7 @@
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="coding_rules" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -167,7 +182,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="login" />
+      <module name="Client" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,6 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.login" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -231,10 +268,10 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3552" y="88" key="#Notifications/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587016354141" />
-    <state x="3414" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587006151292">
+    <state x="3414" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587120252313">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state x="3414" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587006151292" />
+    <state x="3414" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587120252313" />
     <state x="3765" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1587037660311">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
@@ -247,38 +284,38 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3761" y="189" key="FileChooserDialogImpl/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587005979953" />
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1587091954505">
+    <state width="1397" height="194" key="GridCell.Tab.0.bottom" timestamp="1587119567397">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587091954505" />
-    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1587091954505">
+    <state width="1397" height="194" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119567397" />
+    <state width="1397" height="194" key="GridCell.Tab.0.center" timestamp="1587119567397">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587091954505" />
-    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1587091954504">
+    <state width="1397" height="194" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119567397" />
+    <state width="1397" height="194" key="GridCell.Tab.0.left" timestamp="1587119567397">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587091954504" />
-    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1587091954505">
+    <state width="1397" height="194" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119567397" />
+    <state width="1397" height="194" key="GridCell.Tab.0.right" timestamp="1587119567397">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587091954505" />
-    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1587032046319">
+    <state width="1397" height="194" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119567397" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1587114971909">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587032046319" />
-    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1587032046319">
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587114971909" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1587114971909">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="276" key="GridCell.Tab.1.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587032046319" />
-    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1587032046319">
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587114971909" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1587114971909">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="276" key="GridCell.Tab.1.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587032046319" />
-    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1587032046319">
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587114971909" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1587114971909">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587032046319" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587114971909" />
     <state x="3461" y="9" key="SettingsEditor" timestamp="1587006004980">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>

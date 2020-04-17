@@ -2,20 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5173bb-d9d5-4171-89af-17bcd96cc145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/libraries/javafx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/main/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/main/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/META-INF/Client.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyBigNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyWindows$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/arttnba3/MyWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/icon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/mainUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/interfaces/mainUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/loginUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MyBigNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MySQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/arttnba3/MyWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/icon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/mainUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/interfaces/mainUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyBigNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MySQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/mainServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +72,10 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="mainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,6 +109,10 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3552" y="88" key="#Project_Structure/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586750127360" />
+    <state x="3403" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587120097939">
+      <screen x="3240" y="0" width="1440" height="860" />
+    </state>
+    <state x="3403" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587120097939" />
     <state x="3692" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586777713765">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
@@ -93,6 +121,10 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3765" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586787463674" />
+    <state x="3683" y="219" key="EnvironmentVariablesDialog" timestamp="1587120089009">
+      <screen x="3240" y="0" width="1440" height="860" />
+    </state>
+    <state x="3683" y="219" key="EnvironmentVariablesDialog/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587120089009" />
     <state width="699" height="222" key="GridCell.Tab.0.bottom" timestamp="1586880370712">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
@@ -109,6 +141,10 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state width="699" height="222" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1586880370712" />
+    <state x="3461" y="9" key="SettingsEditor" timestamp="1587119691216">
+      <screen x="3240" y="0" width="1440" height="860" />
+    </state>
+    <state x="3461" y="9" key="SettingsEditor/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587119691216" />
     <state x="3658" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586972700523">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
