@@ -4,24 +4,25 @@
     <list default="true" id="ee5173bb-d9d5-4171-89af-17bcd96cc145" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Client/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/lib/login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/FXML/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/lib/FXML/mainUI.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/lib/mainUI.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/Controller.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/main/login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/main/loginUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/src/icon.psd" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/src/icon.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/Controller/MUIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/Controller/MUIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/Controller/loginUIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/Controller/loginUIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/FXML/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/loginUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/lib/FXML/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/mainUI.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/src/lib/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/lib/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/mainUI.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/src/lib/mainUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/mainUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/Controller/loginUIController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/src/main/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/main/loginUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/lib/FXML/loginUI.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/src/icon.psd" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/src/icon.psd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/arttnba3/MyWindows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/customThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/customThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/mainServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/mainServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arttnba3/MyWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arttnba3/MyWindows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/customThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainServer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,22 +114,22 @@
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
     <state x="3740" y="185" key="FileChooserDialogImpl/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587135715756" />
-    <state width="698" height="222" key="GridCell.Tab.0.bottom" timestamp="1587144733679">
+    <state width="698" height="222" key="GridCell.Tab.0.bottom" timestamp="1587304663168">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="222" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
-    <state width="698" height="222" key="GridCell.Tab.0.center" timestamp="1587144733679">
+    <state width="698" height="222" key="GridCell.Tab.0.bottom/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587304663168" />
+    <state width="698" height="222" key="GridCell.Tab.0.center" timestamp="1587304663168">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="222" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
-    <state width="698" height="222" key="GridCell.Tab.0.left" timestamp="1587144733679">
+    <state width="698" height="222" key="GridCell.Tab.0.center/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587304663168" />
+    <state width="698" height="222" key="GridCell.Tab.0.left" timestamp="1587304663168">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="222" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
-    <state width="698" height="222" key="GridCell.Tab.0.right" timestamp="1587144733679">
+    <state width="698" height="222" key="GridCell.Tab.0.left/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587304663168" />
+    <state width="698" height="222" key="GridCell.Tab.0.right" timestamp="1587304663168">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="222" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587144733679" />
+    <state width="698" height="222" key="GridCell.Tab.0.right/0.0.1620.1040/3240.0.1440.860@3240.0.1440.860" timestamp="1587304663168" />
     <state x="3430" y="66" key="SettingsEditor" timestamp="1587121784508">
       <screen x="3240" y="0" width="1440" height="860" />
     </state>

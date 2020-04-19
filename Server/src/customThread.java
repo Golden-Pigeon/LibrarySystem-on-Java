@@ -6,10 +6,11 @@ import java.io.*;
 public class customThread extends Thread
 {
     private ServerSocket serverSocket;
-
-    public customThread(int port) throws IOException
+    int n = 0;
+    public customThread(int port, int n) throws IOException
     {
         serverSocket = new ServerSocket(port);
+        this.n = n;
         //serverSocket.setSoTimeout(1145141919810);
     }
     @Override
@@ -19,7 +20,7 @@ public class customThread extends Thread
         {
             try
             {
-                System.out.println("等待远程连接，端口号为：" + serverSocket.getLocalPort() + "...");
+                System.out.println(n + "等待远程连接，端口号为：" + serverSocket.getLocalPort() + "...");
                 Socket server = serverSocket.accept();
                 System.out.println("远程主机地址：" + server.getRemoteSocketAddress());
                 DataInputStream in = new DataInputStream(server.getInputStream());//从客户端接受的输入流

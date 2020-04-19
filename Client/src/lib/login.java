@@ -26,7 +26,7 @@ public class login extends Application
             switch (n)
             {
                 case 0:
-                    mainUI mui = new mainUI(client,in.readUTF());
+                    mainUI mui = new mainUI(client,in.readUTF());//传递socket的引用和从服务器读取来的UID
                     break;
                 case 1:
                     arttnba3.MyWindows.messageWin("用户名错误或不存在！","错误信息",0);

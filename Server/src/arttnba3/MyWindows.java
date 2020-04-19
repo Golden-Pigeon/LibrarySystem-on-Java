@@ -3,6 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.image.ColorModel;
 
 import static javax.swing.JOptionPane.PLAIN_MESSAGE;
 import static javax.swing.JOptionPane.showConfirmDialog;
@@ -123,6 +124,7 @@ public class MyWindows extends JFrame//¼Ì³Ð×ÔJFrameÀà£¨Ö÷ÒªÊÇÀÁµÃÐ´Ò»¶ÑµÄJFrame£
 	static public JOptionPane messageWin(String message, String title,int width,int height, int type)//µ¯³öÊ½ÏûÏ¢´°¿Ú-×Ô¶¨ÒåÐÍ
 	{
 		JOptionPane p = new JOptionPane();
+		ColorModel cm = p.getColorModel();
 		JOptionPane.showMessageDialog(p,message,title,type);
 		p.setSize(width,height);
 		return p;

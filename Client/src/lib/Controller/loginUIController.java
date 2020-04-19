@@ -26,7 +26,6 @@ public class loginUIController
         if(lgn.getInfo(username.getText(),password.getText()))
         {
             lgn.start(new Stage());
-
         }
         else return;
     }

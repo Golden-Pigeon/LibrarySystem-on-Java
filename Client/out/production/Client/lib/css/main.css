@@ -1,0 +1,11 @@
+.root{
+    -fx-background-insets: 600; /*背景的外边距*/
+}
+
+.exit{
+    -fx-background-color:white;
+}
+
+.minimize{
+    -fx-background-color:white;
+}
