@@ -17,9 +17,7 @@ public class login extends Application
             Socket client = new Socket("localhost", 1919);
             OutputStream outToServer = client.getOutputStream();
             DataOutputStream out = new DataOutputStream(outToServer);
-            out.writeUTF("login");
-            out.writeUTF(username);
-            out.writeUTF(password);
+            out.writeUTF("login:"+username+password);
             InputStream inFromServer = client.getInputStream();
             DataInputStream in = new DataInputStream(inFromServer);
             int n = Integer.valueOf(in.readUTF());

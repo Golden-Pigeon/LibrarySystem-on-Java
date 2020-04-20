@@ -15,15 +15,3 @@
 #exit:pressed{/*鼠标事件：按压*/
     -fx-background-color: GhostWhite/*浅浅浅灰*/
 }
-
-#minimize{
-    -fx-background-color: white
-}
-
-#minimize:hover{
-    -fx-background-color: Gainsboro
-}
-
-#minimize:pressed{
-    -fx-background-color: GhostWhite
-}

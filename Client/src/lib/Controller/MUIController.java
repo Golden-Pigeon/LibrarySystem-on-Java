@@ -2,7 +2,8 @@ package lib.Controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import java.lang.*;
+import javafx.scene.layout.AnchorPane;
+import javafx.stage.*;
 
 public class MUIController
 {
@@ -15,5 +16,14 @@ public class MUIController
             System.exit(0);
         else
             return;
+    }
+    @FXML
+    public AnchorPane root = new AnchorPane();
+    @FXML
+    public Button minimize = new Button();
+    public void miniButtonAction()
+    {
+        Stage stage = (Stage) root.getScene().getWindow();//»ñÈ¡¸ùstage
+        stage.setIconified(true);
     }
 }

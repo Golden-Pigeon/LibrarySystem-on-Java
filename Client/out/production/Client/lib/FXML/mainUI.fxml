@@ -17,8 +17,8 @@
                <Image url="@../../src/title.png" />
             </image>
          </ImageView>
-      <Button fx:id="minimize" layoutX="1221.0" prefHeight="30.0" prefWidth="30.0" text="—" textAlignment="CENTER" />
-      <Button fx:id="exit" layoutX="1251.0" prefHeight="20.0" prefWidth="16.0" text="X" onAction="#exitButtonAction">
+      <Button fx:id="minimize" layoutX="1221.0" prefHeight="30.0" prefWidth="30.0" text="—" textAlignment="CENTER" onAction="#miniButtonAction"/>
+      <Button fx:id="exit" layoutX="1251.0" prefHeight="20.0" prefWidth="16.0" text="X" onAction="#exitButtonAction" >
          <font>
             <Font size="15.0" />
          </font>

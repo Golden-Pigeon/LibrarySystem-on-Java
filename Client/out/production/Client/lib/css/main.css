@@ -2,10 +2,28 @@
     -fx-background-insets: 600; /*背景的外边距*/
 }
 
-.exit{
-    -fx-background-color:white;
+#exit{/*默认*/
+    -fx-background-color: Transparent/*透明*/
+    -fx-background-radius 0
+    -fx-border-radius 0
 }
 
-.minimize{
-    -fx-background-color:white;
+#exit:hover{/*鼠标事件：划过*/
+    -fx-background-color: Gainsboro/*略深的灰色*/
+}
+
+#exit:pressed{/*鼠标事件：按压*/
+    -fx-background-color: GhostWhite/*浅浅浅灰*/
+}
+
+#minimize{
+    -fx-background-color: white;
+}
+
+#minimize:hover{
+    -fx-background-color: Gainsboro;
+}
+
+#minimize:pressed{
+    -fx-background-color: GhostWhite;
 }
