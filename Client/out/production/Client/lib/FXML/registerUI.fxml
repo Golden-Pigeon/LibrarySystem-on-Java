@@ -3,6 +3,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
 <AnchorPane fx:id="root" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lib.Controller.registerUIController">
    <children>
@@ -11,6 +12,32 @@
             <Image url="@../../src/register.png" />
          </image>
       </ImageView>
-      <Button fx:id="exit" onAction="#exitButtonAction" layoutX="573.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="27.0" text="X" />
+      <Button fx:id="exit" layoutX="573.0" mnemonicParsing="false" onAction="#exitButtonAction" prefHeight="23.0" prefWidth="27.0" text="X" />
+      <TextField layoutX="220.0" layoutY="200.0" />
+      <TextField layoutX="220.0" layoutY="229.0" />
+      <Button fx:id="register" layoutX="220.0" layoutY="332.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="161.0" text="注册" onAction="#registerButtonAction" />
+      <TextField layoutX="220.0" layoutY="259.0" />
+      <TextField layoutX="220.0" layoutY="291.0" prefHeight="23.0" prefWidth="76.0" />
+      <Button fx:id="verify" layoutX="305.0" layoutY="291.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="76.0" text="获取验证码" onAction="#verifyButtonAction" />
+      <Label layoutX="142.0" layoutY="203.0" text="学号/工号：">
+         <font>
+            <Font name="Microsoft YaHei" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="174.0" layoutY="232.0" text="密码：">
+         <font>
+            <Font name="Microsoft YaHei" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="174.0" layoutY="262.0" text="邮箱：">
+         <font>
+            <Font name="Microsoft YaHei" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="161.0" layoutY="294.0" text="验证码：">
+         <font>
+            <Font name="Microsoft YaHei" size="13.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>

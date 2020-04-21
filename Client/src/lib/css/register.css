@@ -15,3 +15,31 @@
 #exit:pressed{/*鼠标事件：按压*/
     -fx-background-color: GhostWhite/*浅浅浅灰*/
 }
+
+#register{/*默认*/
+    -fx-background-color: Transparent/*透明*/
+    -fx-background-radius 0
+    -fx-border-radius 0
+}
+
+#register:hover{/*鼠标事件：划过*/
+    -fx-background-color: Gainsboro/*略深的灰色*/
+}
+
+#register:pressed{/*鼠标事件：按压*/
+    -fx-background-color: GhostWhite/*浅浅浅灰*/
+}
+
+#verify{/*默认*/
+    -fx-background-color: Transparent/*透明*/
+    -fx-background-radius 0
+    -fx-border-radius 0
+}
+
+#verify:hover{/*鼠标事件：划过*/
+    -fx-background-color: Gainsboro/*略深的灰色*/
+}
+
+#verify:pressed{/*鼠标事件：按压*/
+    -fx-background-color: GhostWhite/*浅浅浅灰*/
+}

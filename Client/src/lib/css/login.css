@@ -1,7 +1,3 @@
-.root{
-    -fx-background-insets: 600; /*背景的外边距*/
-}
-
 #exit{/*默认*/
     -fx-background-color: Transparent/*透明*/
     -fx-background-radius 0

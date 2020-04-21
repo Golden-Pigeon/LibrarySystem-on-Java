@@ -19,8 +19,8 @@ public class register extends Application
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.getScene().getStylesheets().add("lib/css/register.css");//导入CSS
         primaryStage.setResizable(false);
-        primaryStage.initModality(Modality.APPLICATION_MODAL);//无边框化
-        primaryStage.initStyle(StageStyle.TRANSPARENT);//弹窗型窗口
+        primaryStage.initModality(Modality.APPLICATION_MODAL);//弹窗型窗口
+        primaryStage.initStyle(StageStyle.TRANSPARENT);//无边框化
         primaryStage.getIcons().add(new Image("src/icon.jpeg"));
         primaryStage.showAndWait();
     }

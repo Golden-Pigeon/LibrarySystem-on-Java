@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="root" prefHeight="300.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lib.Controller.loginUIController">
+    <children>
+        <ImageView fitHeight="300.0" fitWidth="500.0">
+            <image>
+                <Image url="@../../main/bg.png" />
+            </image>
+        </ImageView>
+        <Label fx:id="exit" layoutX="260.0" layoutY="286.0" text="©arttnba3    github.com/arttnba3    All Rights Reserved" textFill="WHITE">
+            <font>
+                <Font size="9.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

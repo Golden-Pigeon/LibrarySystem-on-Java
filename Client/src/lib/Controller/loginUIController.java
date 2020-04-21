@@ -5,7 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
-import javafx.scene.layout.GridPane;
+import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 public class loginUIController
@@ -22,7 +22,7 @@ public class loginUIController
     public PasswordField password = new PasswordField();
 
     @FXML
-    public GridPane root = new GridPane();
+    public AnchorPane root = new AnchorPane();
 
     public void loginButtonAction(ActionEvent e) throws Exception
     {
