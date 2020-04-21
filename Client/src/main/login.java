@@ -16,6 +16,7 @@ public class login extends Application
         primaryStage.setScene(new Scene(root, 500, 300));
         primaryStage.getIcons().add(new Image("src/icon.png"));
         primaryStage.setTitle("XDU图书管理系统 ver1.0.0");
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
 
